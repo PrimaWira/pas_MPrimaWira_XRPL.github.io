@@ -1,0 +1,48 @@
+.navbar ul li a{
+    text-decoration: none;
+    color: white;
+    transition: all 0,3s case-in-out;
+    font-size: 13px;
+    font-family: 'Segoe UI',Tahoma,Geneva,Verdana,Sans-Serif;
+}
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 10px 0 0;
+}
+
+.navbar ul li a:hover{
+    color: black;
+}
+.navbar ul{
+    background: purple;
+    width: 100%;
+    height: 50px;
+    margin-right: 50px;
+}
+.navbar ul li a img{
+    margin-top: 10px;
+}
+
+
+
+
+body{
+    background:linear-gradient( aqua,white)
+}
+h1{
+    font-family: arial;
+}
+p{
+    color:silver;
+    font-size: 13px;
+}
+k{
+    color: purple;
+}
+c{
+    color: black;
+}
+img{
+    border-radius: 20px
+}
